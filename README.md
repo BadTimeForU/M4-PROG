@@ -2,7 +2,7 @@
 
 ## gemaakt door Kevin Mei
 
-![voorbeeld gifje](../GD---M4---PROG/image/les1.gif)
+![voorbeeld gifje](image/les1.gif)
 
 script link https://github.com/BadTimeForU/M4-PROG/tree/main/Assets/Scripts
 
@@ -10,6 +10,6 @@ script link https://github.com/BadTimeForU/M4-PROG/tree/main/Assets/Scripts
 
 ## gemaakt door Kevin Mei
 
-![voorbeeld gifje](../GD---M4---PROG/image/les2.gif)
+![voorbeeld gifje](image/les2.gif)
 
 script link https://github.com/BadTimeForU/M4-PROG/tree/main/Assets/Scripts
