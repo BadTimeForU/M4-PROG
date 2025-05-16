@@ -7,6 +7,7 @@ public class PlayerScore : MonoBehaviour
     // To Do's:
     // Private Variabele voor score type int
     // Private List voor "Coins" type int
+    //100% gemaakt door kevin :)
     [SerializeField] private int score;
     [SerializeField] private List<int> Coins;
 
@@ -16,7 +17,7 @@ public class PlayerScore : MonoBehaviour
 
         for (int i = 0; i < 3; i++)
         {
-            Debug.Log("Start");
+            Debug.Log("Start de game");
         }
 
     }
@@ -27,7 +28,7 @@ public class PlayerScore : MonoBehaviour
 
         if (score >= 50)
         {
-            Debug.Log("You win");
+            Debug.Log("Jij wint");
         }
 
 
@@ -49,6 +50,6 @@ public class PlayerScore : MonoBehaviour
 
         Coins.Add(coinValue);
         score += coinValue;
-        Debug.Log("Pickup coin value" + coinValue);
+        Debug.Log("Coins derbij" + coinValue);
     }
 }
