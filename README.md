@@ -13,8 +13,6 @@ script link https://github.com/BadTimeForU/M4-PROG/tree/main/Assets/Scripts
 ![voorbeeld gifje](image/les2.gif)
 
 script link https://github.com/BadTimeForU/M4-PROG/tree/main/Assets/Scripts
-<<<<<<< Updated upstream
-=======
 
 # les3
 
