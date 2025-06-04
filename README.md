@@ -20,7 +20,7 @@ script link https://github.com/BadTimeForU/M4-PROG/tree/main/Assets/Scripts
 
 ## gemaakt door Kevin Mei
 
-![voorbeeld gifje](../GD---M4---PROG/image/les3.gif)
+![voorbeeld gifje](image/les3.gif)
 
 script link https://github.com/BadTimeForU/M4-PROG/tree/main/Assets/Scripts
->>>>>>> Stashed changes
+
