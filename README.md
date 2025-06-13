@@ -22,3 +22,11 @@ script link https://github.com/BadTimeForU/M4-PROG/tree/main/Assets/Scripts
 
 script link https://github.com/BadTimeForU/M4-PROG/tree/main/Assets/Scripts
 
+# les6
+
+## gemaakt door Kevin Mei
+
+![voorbeeld gifje](image/les6.gif)
+
+script link https://github.com/BadTimeForU/M4-PROG/tree/main/Assets/Scripts
+
