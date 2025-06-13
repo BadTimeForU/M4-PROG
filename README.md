@@ -20,7 +20,7 @@ script link https://github.com/BadTimeForU/M4-PROG/tree/main/Assets/Scripts
 
 ![voorbeeld gifje](image/les3.gif)
 
-script link https://github.com/BadTimeForU/M4-PROG/tree/main/Assets/Scripts
+script link [https://github.com/BadTimeForU/M4-PROG/tree/main/Assets/Scripts](https://github.com/BadTimeForU/M4-PROG/blob/main/Assets/Scripts/GameManager.cs)
 
 # les6
 
