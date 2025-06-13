@@ -28,5 +28,8 @@ script link [https://github.com/BadTimeForU/M4-PROG/tree/main/Assets/Scripts](ht
 
 ![voorbeeld gifje](image/les6.gif)
 
-script link https://github.com/BadTimeForU/M4-PROG/tree/main/Assets/Scripts
+script link https://github.com/BadTimeForU/M4-PROG/blob/main/Assets/Scripts/PlayerMove.cs
 
+https://github.com/BadTimeForU/M4-PROG/blob/main/Assets/Scripts/FollowAndReturn.cs
+
+https://github.com/BadTimeForU/M4-PROG/blob/main/Assets/Scripts/MoveOverField.cs
