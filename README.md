@@ -22,6 +22,22 @@ script link https://github.com/BadTimeForU/M4-PROG/tree/main/Assets/Scripts
 
 script link [https://github.com/BadTimeForU/M4-PROG/tree/main/Assets/Scripts](https://github.com/BadTimeForU/M4-PROG/blob/main/Assets/Scripts/GameManager.cs)
 
+# les4
+
+## gemaakt door Kevin Mei
+
+![voorbeeld gifje](image/les4.gif)
+
+script link
+
+# les5
+
+## gemaakt door Kevin Mei
+
+![voorbeeld gifje](image/les5.gif)
+
+script link
+
 # les6
 
 ## gemaakt door Kevin Mei
