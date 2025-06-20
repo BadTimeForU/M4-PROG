@@ -29,6 +29,7 @@ script link [https://github.com/BadTimeForU/M4-PROG/tree/main/Assets/Scripts](ht
 ![voorbeeld gifje](image/les4.gif)
 
 script link
+https://github.com/BadTimeForU/M4-PROG/blob/main/Assets/Scripts/SceneSwitcher.cs
 
 # les5
 
@@ -37,6 +38,8 @@ script link
 ![voorbeeld gifje](image/les5.gif)
 
 script link
+https://github.com/BadTimeForU/M4-PROG/blob/main/Assets/Scripts/PlayerM.cs
+https://github.com/BadTimeForU/M4-PROG/blob/main/Assets/Scripts/ScoreManager.cs
 
 # les6
 
